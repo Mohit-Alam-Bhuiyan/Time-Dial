@@ -1,0 +1,21 @@
+.header{
+    height: 80px;
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+
+.header a:hover{
+    color: rgb(228, 228, 228);
+}

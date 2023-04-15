@@ -1,0 +1,74 @@
+[
+  {
+    "img": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=996&t=st=1681376740~exp=1681377340~hmac=28dda7cec982cfae5599a49c825d070d684d08afc0aa80b0c222f4797abe6faf",
+    "id": "01",
+    "name": "COSMOGRAPH DAYTONA",
+    "price": "$154"
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1681376984~exp=1681377584~hmac=f3b6803bd7e976c3ae5d101dd1c3e0c80c52537cd3e09e1d12150771c93e5338",
+    "id": "02",
+    "name": "YACHT-MASTER",
+    "price": "$198"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-watch-clock-chronograph-stainless-steel_33869-1581.jpg",
+    "id": "03                  ",
+    "name": "SKY-DWELLER",
+    "price": "$349"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-silver-watch-clock-dark-grey-face-design-men-fashion-white-background_33869-2270.jpg",
+    "id": "04",
+    "name": "GMT-MASTER II",
+    "price": "$300"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-watch-clock-chronograph-stainless-steel-black-design-luxury-fashion-object-men-vector_33869-2788.jpg",
+    "id": "05",
+    "name": "OYSTER PERPETUAL",
+    "price": "$251"
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?t=st=1681377170~exp=1681377770~hmac=41026dccbdffa52a230b3b7f70b62ed877f3a11dd8d32033f483fcff87fa8a88",
+    "id": "06",
+    "name": "DATEJUST",
+    "price": "$56"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-watch-clock-chronograph-stainless-steel-dark-blue-design-luxury-fashion-object-men_33869-2790.jpg",
+    "id": "07",
+    "name": "AIR-KING",
+    "price": "$546"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-watch-clock-silver-leather-strap-black-white-design-classic-luxury-vector-illustration_33869-2282.jpg",
+    "id": "08",
+    "name": "SEA-DWELLER",
+    "price": "$179"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-watch-clock-chronograph-silver-dark-grey-dial-men-fashion_33869-2241.jpg?w=740",
+    "id": "09",
+    "name": "NAUTILUS ",
+    "price": "$85"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-chronograph-stainless-steel_33869-629.jpg",
+    "id": "10",
+    "name": "CALATRAVA",
+    "price": "$496"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-black-steel-clock-watch-chronograph-white-background-design-men-luxury-illustration_33869-1915.jpg",
+    "id": "11",
+    "name": "NAVITIMER",
+    "price": "$226"
+  },
+  {
+    "img": "https://img.freepik.com/premium-vector/realistic-watch-clock-chronograph-stainless-steel_33869-1581.jpg",
+    "id": "12",
+    "name": "Ronde",
+    "price": "$489"
+  }
+]
