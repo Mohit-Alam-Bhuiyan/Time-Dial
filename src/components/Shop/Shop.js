@@ -4,7 +4,6 @@ import Watch from '../Watch/Watch';
 const Shop = () => {
     const [watches, setWatches] = useState([]);
     const [cart, setCart] = useState([]);
-    
 
     useEffect(() => {
         fetch('products.json')
@@ -16,9 +15,11 @@ const Shop = () => {
         console.log(watch);
         const newCart = [cart, watch.name];
         setCart(newCart);
-        
     }
 
+    function handleClearArray() {
+        setCart([]);
+      } 
 
 
     return (
@@ -35,9 +36,9 @@ const Shop = () => {
             <div className="cart-container">
                    <h4>Selected Watches</h4>
                    <p className='cart-add'>{cart}</p>
-                  
+                   
                    <button>Choose 1 from here</button><br/>
-                   <button>Choose again</button>
+                   <button onClick={handleClearArray}>Choose again</button>
             </div>
         </div>
     );
