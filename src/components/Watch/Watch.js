@@ -1,7 +1,10 @@
 import React from 'react';
 import './Watch.css'
-const Watch = (props) => {
-    const {img, name, price} = props.watch;
+
+
+const Watch = ({watch, handleAddToCart}) => { 
+   // const {watch, handleAddToCart} = props;
+    const {img, name, price} = watch;
     return (
         <div className='watch'>
             <img src= {img} alt="" />
@@ -11,7 +14,7 @@ const Watch = (props) => {
             <p className='watch-price'>{price}</p>
             </div>
 
-            <button className='btn-cart'>
+            <button onClick={ () => handleAddToCart(watch)} className='btn-cart'>
                 <p>Add To Cart</p>
             </button>
         </div>
