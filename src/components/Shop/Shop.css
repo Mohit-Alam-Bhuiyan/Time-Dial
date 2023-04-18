@@ -14,16 +14,23 @@
     margin-top: 110px;
     font-size: 20px;
     background-color: rgb(233, 233, 233);
-
+    margin-bottom: 1700px;
+    border-radius: 15px;
+    padding-left: 25px;
+    margin-right: 20px;
+    position: sticky;
+    top: 110;
 }
+
+  
+
 @media screen and (max-width: 1100px) {
-    .watches-container{
-        grid-template-columns: repeat(2, 1fr);
+    .watches-container, .cart-container{
+        grid-template-columns: repeat(1, 1fr);
     }
 }
 
 .cart-add{
    text-align: center;
-   background-color: rgb(142, 142, 142);
    
 }
